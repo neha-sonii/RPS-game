@@ -1,1 +1,1 @@
-Rock paper Scissor
+Rock Paper Scissor
